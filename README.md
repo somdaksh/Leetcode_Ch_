@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0027-remove-element) |
 | [0238-product-of-array-except-self](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0027-remove-element) |
 ## String
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
