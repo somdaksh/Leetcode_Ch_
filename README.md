@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0042-trapping-rain-water) |
+| [0219-contains-duplicate-ii](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/somdaksh/Leetcode_Ch_/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
