@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -100,4 +102,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
