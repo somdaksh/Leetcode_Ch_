@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,8 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/somdaksh/Leetcode_Ch_/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
